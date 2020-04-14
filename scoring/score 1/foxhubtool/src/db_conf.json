@@ -1,0 +1,7 @@
+{
+  "host": "fox-hub-db.c1culiyh9hss.ap-southeast-1.rds.amazonaws.com",
+  "port": 5432,
+  "user": "Foxhub",
+  "database": "DB_Foxhub",
+  "password": "bulldog12345"
+}

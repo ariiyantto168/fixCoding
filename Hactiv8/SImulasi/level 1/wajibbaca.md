@@ -1,0 +1,1 @@
+waktu yang di berikan 4 soal 1 jam 30 menit 
